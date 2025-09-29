@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class CardInsertedState implements ATMState {
     private final ATM atm;

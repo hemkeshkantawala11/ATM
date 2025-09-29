@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 import java.time.LocalDateTime;
 

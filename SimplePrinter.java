@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class SimplePrinter implements Printer {
     @Override

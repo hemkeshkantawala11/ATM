@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class ATM {
     private final CardReader cardReader;
@@ -51,7 +51,7 @@ public class ATM {
     ATMState servicingState() { return servicing; }
     ATMState outOfServiceState() { return outOfService; }
 
-    void start() {
+    public void start() {
         setState(idle);
     }
 

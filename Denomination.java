@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class Denomination {
     private final int value;

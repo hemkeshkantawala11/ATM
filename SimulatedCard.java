@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class SimulatedCard implements Card {
     private final String number;

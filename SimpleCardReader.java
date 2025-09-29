@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class SimpleCardReader implements CardReader {
     private Card current;

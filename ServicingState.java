@@ -1,4 +1,4 @@
-package atm;
+package ATM;
 
 public class ServicingState implements ATMState {
     private final ATM atm;
