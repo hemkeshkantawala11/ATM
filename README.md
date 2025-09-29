@@ -6,7 +6,7 @@ This project implements a comprehensive ATM (Automated Teller Machine) system fo
 
 ## Class Diagram
 
-![atmClassDiagram](atmclassDiagram.png)
+![atmClassDiagram](atmClassDiagram.png)
 
 ## Architecture & Design Patterns
 
